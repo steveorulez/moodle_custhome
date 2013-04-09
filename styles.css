@@ -1,0 +1,184 @@
+.block_custhome .coursechildren {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.block_custhome .content {
+    margin: 0 20px;
+}
+.block_custhome .content .notice {
+    margin: 5px 0;
+}
+
+.block_custhome .coursebox {
+    padding: 15px;
+    width: auto;
+}
+
+.block_custhome .profilepicture {
+    float: left;
+}
+.dir-rtl.block_custhome .profilepicture {
+    float:right;
+}
+.block_custhome .welcome_area {
+    width: 100%;
+    padding-bottom: 5px;
+}
+
+.block_custhome .welcome_message {
+    float: left;
+    padding: 10px;
+    vertical-align: middle;
+    border-collapse: separate;
+    clear: none;
+}
+.dir-rtl .block_custhome .welcome_message {
+    float:right;
+}
+
+.block_custhome .content h2.title {
+    float: left;
+    margin: 0 0 .5em 0;
+    position: relative;
+}
+.dir-rtl .block_custhome .content h2.title {
+    float:right;
+}
+
+.block_custhome .course_title {
+    position: relative;
+}
+
+.editing .block_custhome .coursebox .cursor {
+    cursor: move;
+    margin-bottom: 2px;
+}
+
+.editing .block_custhome .move {
+    float: left;
+    padding: 2px 10px 0 0;
+}
+.dir-rtl.editing .block_custhome .move {
+    float:right;
+    padding: 2px 10px;
+}
+
+.editing .block_custhome .moveicons {
+    display: block;
+    float: left;
+    padding-right: 5px;
+}
+.dir-rtl.editing .block_custhome .moveicons {
+    float:right;
+}
+
+.editing .block_custhome .moveup {
+    padding-right: 5px;
+}
+
+.editing .block_custhome .movedownspacer {
+    float: left;
+    width: 14px;
+}
+.dir-rtl.editing .block_custhome .movedownspacer {
+    float:right;
+}
+
+.editing .block_custhome .moveupspacer {
+    float: right;
+    width: 14px;
+}
+.dir-rtl.editing .block_custhome .moveupspacer {
+    float:left;
+}
+
+.block_custhome #course_list {
+    width: 100%;
+}
+
+.block_custhome div.flush {
+    clear: both;
+}
+
+.block_custhome .activity_info {
+    clear: both;
+}
+.dir-rtl .block_custhome .activity_info {
+    margin-right: 25px;
+}
+
+.block_custhome .activity_overview {
+    padding: 2px;
+}
+.block_custhome .activity_overview img.iconlarge { vertical-align: text-bottom; margin-right: 6px; }
+.dir-rtl .block_custhome .activity_overview img.iconlarge { margin-left: 6px; margin-right: 0;}
+
+.block_custhome .singleselect {
+    text-align: left;
+    margin: 0;
+}
+.dir-rtl .block_custhome .singleselect {
+    text-align: right;
+}
+
+.block_custhome .coursemovetarget {
+    display: block;
+    height: 1em;
+    margin-bottom: 1em;
+    border-width: 2px;
+    border-style: dashed;
+}
+
+
+
+.category_buttons{    
+    display:inline;
+    margin-left:10px;
+}
+.category_buttons img{    
+    cursor:pointer;
+    margin-right:2px;
+}
+.category_title{
+    display:inline;
+}
+#addCategory{
+    cursor:pointer;
+}
+
+#formeditcategorytitle{
+    display:inline;
+}
+
+#editcategorytitle{
+    display:inline;
+}
+
+span.editcategorytitleinstructions {
+    background-color: #FFFFCC;
+    border: 1px solid #DDDDDD;
+    box-shadow: 2px 2px 5px 1px #CCCCCC;
+    color: #000000;
+    font-size: 0.85em;
+    line-height: 16px;
+    margin-left: 25px;
+    padding: 0.1em 0.4em;
+    text-decoration: none;
+}
+
+.categorybox{
+    margin: 0;
+    padding: 15px;
+    width: auto;
+    border-bottom: 1px solid #E3E3E3;   
+    overflow: hidden; 
+}
+
+.course_category{
+    float:right;
+    
+}
+.block_custhome .course_title {
+position: inherit;
+}
